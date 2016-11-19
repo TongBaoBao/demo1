@@ -15,5 +15,7 @@ public class Run {
 
 
         System.out.print("dd");
+        System.out.print("dd");
+
     }
 }
