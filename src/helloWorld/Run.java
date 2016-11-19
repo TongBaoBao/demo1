@@ -11,5 +11,9 @@ public class Run {
         System.out.println(c.getR());
         System.out.println(c.getArea());
         System.out.println(c.getGirth());
+
+
+
+        System.out.print("dd");
     }
 }
